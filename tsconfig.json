@@ -35,5 +35,5 @@
     "noUnusedParameters": false,
     "noPropertyAccessFromIndexSignature": false
   },
-  "include": ["index.ts", "src/**/*"]
+  "include": ["index.ts", "src/**/*", "tests/**/*"]
 }
